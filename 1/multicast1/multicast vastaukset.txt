@@ -1,0 +1,6 @@
+2. 	Vastaanottaja IP: 		224.0.0.22
+	Vastaanottamjan MAC: 	01:00:5e:00:00:16
+	Lähettäjän IP: 			192.168.0.3
+	Lähettäjän MAC: 		00:26:18:57:eb:06
+
+3. https://en.wikipedia.org/wiki/Multicast_address#cite_note-19
